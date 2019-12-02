@@ -1,0 +1,4 @@
+When working with longer texts, it is not unusual to have to change a common term because
+                                                                                            it has been written incorrectly or because it is no longer up-to-date. Common
+                                                                                            word processing software packages like MS Word have a “search and replace”
+                                                                                            function so that you do not have to go through the whole text and change everything by hand.
